@@ -1,0 +1,15 @@
+C:\dotnet training infinite\calculator\bin\Debug\net8.0\calculator.exe
+C:\dotnet training infinite\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\dotnet training infinite\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\dotnet training infinite\calculator\bin\Debug\net8.0\calculator.dll
+C:\dotnet training infinite\calculator\bin\Debug\net8.0\calculator.pdb
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.dll
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.pdb
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\dotnet training infinite\calculator\obj\Debug\net8.0\ref\calculator.dll

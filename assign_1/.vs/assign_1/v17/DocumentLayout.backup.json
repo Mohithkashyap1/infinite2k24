@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet training infinite\\assign_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3CD577-D8C4-40A3-BCC5-01A180C837C9}|assign_1.csproj|c:\\dotnet training infinite\\assign_1\\pos_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3CD577-D8C4-40A3-BCC5-01A180C837C9}|assign_1.csproj|solutionrelative:pos_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3CD577-D8C4-40A3-BCC5-01A180C837C9}|assign_1.csproj|c:\\dotnet training infinite\\assign_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3CD577-D8C4-40A3-BCC5-01A180C837C9}|assign_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pos_neg.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\assign_1\\Pos_neg.cs",
+              "RelativeDocumentMoniker": "Pos_neg.cs",
+              "ToolTip": "C:\\dotnet training infinite\\assign_1\\Pos_neg.cs",
+              "RelativeToolTip": "Pos_neg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:36:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\assign_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dotnet training infinite\\assign_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:41:12.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

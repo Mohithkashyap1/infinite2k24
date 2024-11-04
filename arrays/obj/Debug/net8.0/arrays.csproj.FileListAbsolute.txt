@@ -1,0 +1,15 @@
+C:\dotnet training infinite\arrays\bin\Debug\net8.0\arrays.exe
+C:\dotnet training infinite\arrays\bin\Debug\net8.0\arrays.deps.json
+C:\dotnet training infinite\arrays\bin\Debug\net8.0\arrays.runtimeconfig.json
+C:\dotnet training infinite\arrays\bin\Debug\net8.0\arrays.dll
+C:\dotnet training infinite\arrays\bin\Debug\net8.0\arrays.pdb
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.AssemblyInfoInputs.cache
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.AssemblyInfo.cs
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.sourcelink.json
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.dll
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\refint\arrays.dll
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.pdb
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\arrays.genruntimeconfig.cache
+C:\dotnet training infinite\arrays\obj\Debug\net8.0\ref\arrays.dll

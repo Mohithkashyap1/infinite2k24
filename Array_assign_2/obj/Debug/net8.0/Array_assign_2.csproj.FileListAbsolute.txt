@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Array_assign_2\bin\Debug\net8.0\Array_assign_2.exe
+C:\dotnet training infinite\Array_assign_2\bin\Debug\net8.0\Array_assign_2.deps.json
+C:\dotnet training infinite\Array_assign_2\bin\Debug\net8.0\Array_assign_2.runtimeconfig.json
+C:\dotnet training infinite\Array_assign_2\bin\Debug\net8.0\Array_assign_2.dll
+C:\dotnet training infinite\Array_assign_2\bin\Debug\net8.0\Array_assign_2.pdb
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.AssemblyInfo.cs
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.sourcelink.json
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.dll
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\refint\Array_assign_2.dll
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.pdb
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\Array_assign_2.genruntimeconfig.cache
+C:\dotnet training infinite\Array_assign_2\obj\Debug\net8.0\ref\Array_assign_2.dll
