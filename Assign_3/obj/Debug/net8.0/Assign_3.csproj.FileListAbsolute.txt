@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Assign_3\bin\Debug\net8.0\Assign_3.exe
+C:\dotnet training infinite\Assign_3\bin\Debug\net8.0\Assign_3.deps.json
+C:\dotnet training infinite\Assign_3\bin\Debug\net8.0\Assign_3.runtimeconfig.json
+C:\dotnet training infinite\Assign_3\bin\Debug\net8.0\Assign_3.dll
+C:\dotnet training infinite\Assign_3\bin\Debug\net8.0\Assign_3.pdb
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.AssemblyInfo.cs
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.sourcelink.json
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.dll
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\refint\Assign_3.dll
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.pdb
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\Assign_3.genruntimeconfig.cache
+C:\dotnet training infinite\Assign_3\obj\Debug\net8.0\ref\Assign_3.dll

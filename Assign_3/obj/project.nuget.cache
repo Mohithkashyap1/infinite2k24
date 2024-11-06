@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0uHNPMMpZQ=",
+  "success": true,
+  "projectFilePath": "C:\\dotnet training infinite\\Assign_3\\Assign_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohithk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
