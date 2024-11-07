@@ -1,0 +1,15 @@
+C:\dotnet training infinite\assign_sales\bin\Debug\net8.0\assign_sales.exe
+C:\dotnet training infinite\assign_sales\bin\Debug\net8.0\assign_sales.deps.json
+C:\dotnet training infinite\assign_sales\bin\Debug\net8.0\assign_sales.runtimeconfig.json
+C:\dotnet training infinite\assign_sales\bin\Debug\net8.0\assign_sales.dll
+C:\dotnet training infinite\assign_sales\bin\Debug\net8.0\assign_sales.pdb
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.AssemblyInfoInputs.cache
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.AssemblyInfo.cs
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.sourcelink.json
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.dll
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\refint\assign_sales.dll
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.pdb
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\assign_sales.genruntimeconfig.cache
+C:\dotnet training infinite\assign_sales\obj\Debug\net8.0\ref\assign_sales.dll

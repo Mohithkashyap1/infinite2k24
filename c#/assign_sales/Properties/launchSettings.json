@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "assign_sales": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
