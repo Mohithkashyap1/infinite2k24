@@ -1,0 +1,15 @@
+C:\dotnet training infinite\GenClass\bin\Debug\net8.0\GenClass.exe
+C:\dotnet training infinite\GenClass\bin\Debug\net8.0\GenClass.deps.json
+C:\dotnet training infinite\GenClass\bin\Debug\net8.0\GenClass.runtimeconfig.json
+C:\dotnet training infinite\GenClass\bin\Debug\net8.0\GenClass.dll
+C:\dotnet training infinite\GenClass\bin\Debug\net8.0\GenClass.pdb
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.AssemblyInfoInputs.cache
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.AssemblyInfo.cs
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.sourcelink.json
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.dll
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\refint\GenClass.dll
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.pdb
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\GenClass.genruntimeconfig.cache
+C:\dotnet training infinite\GenClass\obj\Debug\net8.0\ref\GenClass.dll

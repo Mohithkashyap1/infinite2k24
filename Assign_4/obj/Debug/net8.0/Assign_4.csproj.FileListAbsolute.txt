@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Assign_4\bin\Debug\net8.0\Assign_4.exe
+C:\dotnet training infinite\Assign_4\bin\Debug\net8.0\Assign_4.deps.json
+C:\dotnet training infinite\Assign_4\bin\Debug\net8.0\Assign_4.runtimeconfig.json
+C:\dotnet training infinite\Assign_4\bin\Debug\net8.0\Assign_4.dll
+C:\dotnet training infinite\Assign_4\bin\Debug\net8.0\Assign_4.pdb
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.AssemblyInfo.cs
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.sourcelink.json
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.dll
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\refint\Assign_4.dll
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.pdb
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\Assign_4.genruntimeconfig.cache
+C:\dotnet training infinite\Assign_4\obj\Debug\net8.0\ref\Assign_4.dll

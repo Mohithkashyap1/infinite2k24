@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GenClass": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

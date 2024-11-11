@@ -1,0 +1,15 @@
+C:\dotnet training infinite\prac_dict\bin\Debug\net8.0\prac_dict.exe
+C:\dotnet training infinite\prac_dict\bin\Debug\net8.0\prac_dict.deps.json
+C:\dotnet training infinite\prac_dict\bin\Debug\net8.0\prac_dict.runtimeconfig.json
+C:\dotnet training infinite\prac_dict\bin\Debug\net8.0\prac_dict.dll
+C:\dotnet training infinite\prac_dict\bin\Debug\net8.0\prac_dict.pdb
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.AssemblyInfoInputs.cache
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.AssemblyInfo.cs
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.sourcelink.json
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.dll
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\refint\prac_dict.dll
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.pdb
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\prac_dict.genruntimeconfig.cache
+C:\dotnet training infinite\prac_dict\obj\Debug\net8.0\ref\prac_dict.dll

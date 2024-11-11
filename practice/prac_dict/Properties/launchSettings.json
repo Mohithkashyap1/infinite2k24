@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "prac_dict": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

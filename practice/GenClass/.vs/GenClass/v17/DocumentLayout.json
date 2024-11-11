@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet training infinite\\GenClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|c:\\dotnet training infinite\\genclass\\gendex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|solutionrelative:gendex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|c:\\dotnet training infinite\\genclass\\gencons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|solutionrelative:gencons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|c:\\dotnet training infinite\\genclass\\genfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|solutionrelative:genfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|c:\\dotnet training infinite\\genclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E432F96-AC72-4F6B-A946-71BB09E8F9DC}|GenClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenDex.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\GenClass\\GenDex.cs",
+              "RelativeDocumentMoniker": "GenDex.cs",
+              "ToolTip": "C:\\dotnet training infinite\\GenClass\\GenDex.cs",
+              "RelativeToolTip": "GenDex.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:09:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gencons.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\GenClass\\Gencons.cs",
+              "RelativeDocumentMoniker": "Gencons.cs",
+              "ToolTip": "C:\\dotnet training infinite\\GenClass\\Gencons.cs",
+              "RelativeToolTip": "Gencons.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:46:12.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenFunc.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\GenClass\\GenFunc.cs",
+              "RelativeDocumentMoniker": "GenFunc.cs",
+              "ToolTip": "C:\\dotnet training infinite\\GenClass\\GenFunc.cs",
+              "RelativeToolTip": "GenFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:34:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\GenClass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dotnet training infinite\\GenClass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:25:37.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

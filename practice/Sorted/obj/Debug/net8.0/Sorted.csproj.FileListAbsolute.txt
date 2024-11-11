@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Sorted\bin\Debug\net8.0\Sorted.exe
+C:\dotnet training infinite\Sorted\bin\Debug\net8.0\Sorted.deps.json
+C:\dotnet training infinite\Sorted\bin\Debug\net8.0\Sorted.runtimeconfig.json
+C:\dotnet training infinite\Sorted\bin\Debug\net8.0\Sorted.dll
+C:\dotnet training infinite\Sorted\bin\Debug\net8.0\Sorted.pdb
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.AssemblyInfo.cs
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.sourcelink.json
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.dll
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\refint\Sorted.dll
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.pdb
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\Sorted.genruntimeconfig.cache
+C:\dotnet training infinite\Sorted\obj\Debug\net8.0\ref\Sorted.dll

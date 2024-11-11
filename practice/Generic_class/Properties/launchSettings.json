@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Generic_class": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

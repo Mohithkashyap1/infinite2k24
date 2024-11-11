@@ -1,0 +1,5 @@
+C:\dotnet training infinite\Generic_class\obj\Debug\net8.0\Generic_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Generic_class\obj\Debug\net8.0\Generic_class.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Generic_class\obj\Debug\net8.0\Generic_class.AssemblyInfo.cs
+C:\dotnet training infinite\Generic_class\obj\Debug\net8.0\Generic_class.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Generic_class\obj\Debug\net8.0\Generic_class.sourcelink.json
