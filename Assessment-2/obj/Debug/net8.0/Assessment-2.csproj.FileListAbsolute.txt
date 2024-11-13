@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Assessment-2\bin\Debug\net8.0\Assessment-2.exe
+C:\dotnet training infinite\Assessment-2\bin\Debug\net8.0\Assessment-2.deps.json
+C:\dotnet training infinite\Assessment-2\bin\Debug\net8.0\Assessment-2.runtimeconfig.json
+C:\dotnet training infinite\Assessment-2\bin\Debug\net8.0\Assessment-2.dll
+C:\dotnet training infinite\Assessment-2\bin\Debug\net8.0\Assessment-2.pdb
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.AssemblyInfo.cs
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.sourcelink.json
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.dll
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\refint\Assessment-2.dll
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.pdb
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\Assessment-2.genruntimeconfig.cache
+C:\dotnet training infinite\Assessment-2\obj\Debug\net8.0\ref\Assessment-2.dll

@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Student\bin\Debug\net8.0\Student.exe
+C:\dotnet training infinite\Student\bin\Debug\net8.0\Student.deps.json
+C:\dotnet training infinite\Student\bin\Debug\net8.0\Student.runtimeconfig.json
+C:\dotnet training infinite\Student\bin\Debug\net8.0\Student.dll
+C:\dotnet training infinite\Student\bin\Debug\net8.0\Student.pdb
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.sourcelink.json
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.dll
+C:\dotnet training infinite\Student\obj\Debug\net8.0\refint\Student.dll
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.pdb
+C:\dotnet training infinite\Student\obj\Debug\net8.0\Student.genruntimeconfig.cache
+C:\dotnet training infinite\Student\obj\Debug\net8.0\ref\Student.dll
