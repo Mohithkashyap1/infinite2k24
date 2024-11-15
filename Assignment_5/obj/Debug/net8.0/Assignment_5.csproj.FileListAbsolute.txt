@@ -1,0 +1,15 @@
+C:\dotnet training infinite\Assignment_5\bin\Debug\net8.0\Assignment_5.exe
+C:\dotnet training infinite\Assignment_5\bin\Debug\net8.0\Assignment_5.deps.json
+C:\dotnet training infinite\Assignment_5\bin\Debug\net8.0\Assignment_5.runtimeconfig.json
+C:\dotnet training infinite\Assignment_5\bin\Debug\net8.0\Assignment_5.dll
+C:\dotnet training infinite\Assignment_5\bin\Debug\net8.0\Assignment_5.pdb
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.AssemblyInfoInputs.cache
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.AssemblyInfo.cs
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.sourcelink.json
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.dll
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\refint\Assignment_5.dll
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.pdb
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\Assignment_5.genruntimeconfig.cache
+C:\dotnet training infinite\Assignment_5\obj\Debug\net8.0\ref\Assignment_5.dll

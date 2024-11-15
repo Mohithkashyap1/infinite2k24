@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet training infinite\\Assignment_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|c:\\dotnet training infinite\\assignment_5\\lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|solutionrelative:lines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|c:\\dotnet training infinite\\assignment_5\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|solutionrelative:array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|c:\\dotnet training infinite\\assignment_5\\assignment_5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|solutionrelative:assignment_5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|c:\\dotnet training infinite\\assignment_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79192DF1-0FC1-4CB6-A70F-8F79FC5EB856}|Assignment_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lines.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assignment_5\\lines.cs",
+              "RelativeDocumentMoniker": "lines.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assignment_5\\lines.cs",
+              "RelativeToolTip": "lines.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:13:59.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment_5",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assignment_5\\Assignment_5.csproj",
+              "RelativeDocumentMoniker": "Assignment_5.csproj",
+              "ToolTip": "C:\\dotnet training infinite\\Assignment_5\\Assignment_5.csproj",
+              "RelativeToolTip": "Assignment_5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T04:12:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assignment_5\\Array.cs",
+              "RelativeDocumentMoniker": "Array.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assignment_5\\Array.cs",
+              "RelativeToolTip": "Array.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:04:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assignment_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assignment_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:43:56.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
