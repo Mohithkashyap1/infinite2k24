@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|c:\\dotnet training infinite\\assessment\\assessment_3\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|solutionrelative:delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|c:\\dotnet training infinite\\assessment\\assessment_3\\assessment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|solutionrelative:assessment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|c:\\dotnet training infinite\\assessment\\assessment_3\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|solutionrelative:writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|c:\\dotnet training infinite\\assessment\\assessment_3\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|solutionrelative:box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|c:\\dotnet training infinite\\assessment\\assessment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F198F34-E67E-40EE-902A-C9320E0CF8E9}|Assessment_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assessment_3",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Assessment_3.csproj",
+              "RelativeDocumentMoniker": "Assessment_3.csproj",
+              "ToolTip": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Assessment_3.csproj",
+              "RelativeToolTip": "Assessment_3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:11:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Delegate.cs",
+              "RelativeDocumentMoniker": "Delegate.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Delegate.cs",
+              "RelativeToolTip": "Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:07:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Writer.cs",
+              "RelativeDocumentMoniker": "Writer.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Writer.cs",
+              "RelativeToolTip": "Writer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:57:34.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Box.cs",
+              "RelativeDocumentMoniker": "Box.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Box.cs",
+              "RelativeToolTip": "Box.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:26:59.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dotnet training infinite\\Assessment\\Assessment_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:46:29.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
