@@ -1,0 +1,7 @@
+C:\dotnet training infinite\Assessment\Assessment-4\bin\Debug\Assessment-4.exe.config
+C:\dotnet training infinite\Assessment\Assessment-4\bin\Debug\Assessment-4.exe
+C:\dotnet training infinite\Assessment\Assessment-4\bin\Debug\Assessment-4.pdb
+C:\dotnet training infinite\Assessment\Assessment-4\obj\Debug\Assessment-4.csproj.AssemblyReference.cache
+C:\dotnet training infinite\Assessment\Assessment-4\obj\Debug\Assessment-4.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\Assessment\Assessment-4\obj\Debug\Assessment-4.exe
+C:\dotnet training infinite\Assessment\Assessment-4\obj\Debug\Assessment-4.pdb
