@@ -1,7 +1,4 @@
-create database Assignment
-
-use Assignment
-
+create database Assignment_002      
 create table EMP                    
 (
 Empno int primary key,
@@ -13,7 +10,6 @@ Sal int ,
 Comm int,
 Deptno int references DEPT(Deptno)
 )
-
 Alter table Emp                       
 Alter  COLUMN Ename varchar(50)
 Alter table Emp
