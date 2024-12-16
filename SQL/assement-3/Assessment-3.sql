@@ -60,7 +60,7 @@ values (10,'ACCOUNTING','NEW YORK' ),
 
 
 
-select * from DEPT1              
+select * from DEPT1            
 sp_help DEPT1                    
 
 
@@ -72,7 +72,7 @@ begin
 
 	BEGIN transaction;
 
-	update Emp
+	update Emp1
 	set Sal=Sal+500
 	where Dept_name = 'Sales'
              and Sal<1500;

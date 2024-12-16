@@ -1,0 +1,15 @@
+C:\dotnet training infinite\ADO\bin\Debug\net8.0\ADO.exe
+C:\dotnet training infinite\ADO\bin\Debug\net8.0\ADO.deps.json
+C:\dotnet training infinite\ADO\bin\Debug\net8.0\ADO.runtimeconfig.json
+C:\dotnet training infinite\ADO\bin\Debug\net8.0\ADO.dll
+C:\dotnet training infinite\ADO\bin\Debug\net8.0\ADO.pdb
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.AssemblyInfoInputs.cache
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.AssemblyInfo.cs
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.csproj.CoreCompileInputs.cache
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.sourcelink.json
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.dll
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\refint\ADO.dll
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.pdb
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ADO.genruntimeconfig.cache
+C:\dotnet training infinite\ADO\obj\Debug\net8.0\ref\ADO.dll
