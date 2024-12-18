@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>JS assign</title>
+</head>
+<body>
+    <script>
+
+        function Mul() {
+
+            var x = document.getElementById("fnumb").value;
+
+            var y = document.getElementById("Snumb").value;
+
+            var z = x * y;
+
+            document.getElementById("res").innerText = z;
+
+
+        }
+
+        function Div() {
+
+            var x = document.getElementById("fnumb").value;
+
+            var y = document.getElementById("Snumb").value;
+
+            var z = x / y;
+
+            document.getElementById("res").innerText = z;
+
+        }
+
+
+
+
+
+
+    </script>
+
+
+    <form action="">
+        <label for="fnumb"> 1st Number :</label>
+        <input type="text" id="fnumb">
+        <br><br>
+
+        <label for="Snumb"> 2nd Number :</label>
+        <input type="text" id="Snumb">
+        <br><br>
+
+
+        <button onclick="Mul()">Multiply</button> <br /> <br />
+        <button onclick="Div()">Divide</button><br /><br />
+
+
+
+    </form>
+
+    <p>The Result is : <span id="res"></span></p>
+
+
+
+
+</body>
+</html>
