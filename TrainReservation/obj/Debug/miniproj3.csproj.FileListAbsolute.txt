@@ -1,0 +1,7 @@
+C:\Users\mohithk\source\repos\miniproj3\bin\Debug\miniproj3.exe.config
+C:\Users\mohithk\source\repos\miniproj3\bin\Debug\miniproj3.exe
+C:\Users\mohithk\source\repos\miniproj3\bin\Debug\miniproj3.pdb
+C:\Users\mohithk\source\repos\miniproj3\obj\Debug\miniproj3.csproj.AssemblyReference.cache
+C:\Users\mohithk\source\repos\miniproj3\obj\Debug\miniproj3.csproj.CoreCompileInputs.cache
+C:\Users\mohithk\source\repos\miniproj3\obj\Debug\miniproj3.exe
+C:\Users\mohithk\source\repos\miniproj3\obj\Debug\miniproj3.pdb
