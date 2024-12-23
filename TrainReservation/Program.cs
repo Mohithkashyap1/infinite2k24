@@ -13,6 +13,7 @@ namespace TrainReservationApp
 
         private static string connectionString = "Data Source=ICS-LT-D244D6CV\\SQLEXPRESS;Initial Catalog=TrainReservation;Integrated Security=True";
 
+  
         public void Run()
 
         {
@@ -207,7 +208,7 @@ namespace TrainReservationApp
 
             string trainName = Console.ReadLine();
 
-            Console.Write("Enter Class (1st Class/2nd Class/Sleeper): ");
+            Console.Write("Enter Class (1st Class/Second Class/Sleeper): ");
 
             string trainClass = Console.ReadLine();
 
@@ -403,6 +404,8 @@ namespace TrainReservationApp
 
         }
 
+     
+
         private void CancelTickets()
 
         {
@@ -411,25 +414,115 @@ namespace TrainReservationApp
 
             int bookingId = int.Parse(Console.ReadLine());
 
-            using (SqlConnection conn = new SqlConnection(connectionString))
 
+            
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
+                connection.Open();
+                SqlTransaction transaction = connection.BeginTransaction();
+                try
+                {
+                    int trainNo;
+                    string trainClass;
+                    int berthsBooked;
+                    decimal pricePerSeat;
+                    decimal refundAmount;
+                    // Fetch booking details
+                    string fetchBookingQuery = @"
+                            SELECT TrainNo, Class, BerthsBooked
+                            FROM Bookings
+                            WHERE BookingID = @BookingID";
+                    using (SqlCommand fetchBookingCmd = new SqlCommand(fetchBookingQuery, connection, transaction))
+                    {
+                        fetchBookingCmd.Parameters.AddWithValue("@BookingID", bookingId);
+                        using (SqlDataReader reader = fetchBookingCmd.ExecuteReader())
+                        {
+                            if (!reader.Read())
+                            {
+                                Console.WriteLine("Invalid booking ID.");
+                                return;
+                            }
+                            trainNo = reader.GetInt32(0);
+                            trainClass = reader.GetString(1);
+                            berthsBooked = reader.GetInt32(2);
+                        }
+                    }
+                    // Update available berths
+                    string updateTrainsQuery = @"
+                            UPDATE Trains
+                            SET AvailableBerths = AvailableBerths + @BerthsBooked
+                            WHERE TrainNo = @TrainNo AND Class = @Class";
+                    using (SqlCommand updateTrainsCmd = new SqlCommand(updateTrainsQuery, connection, transaction))
+                    {
+                        updateTrainsCmd.Parameters.AddWithValue("@BerthsBooked", berthsBooked);
+                        updateTrainsCmd.Parameters.AddWithValue("@TrainNo", trainNo);
+                        updateTrainsCmd.Parameters.AddWithValue("@Class", trainClass);
+                        updateTrainsCmd.ExecuteNonQuery();
+                    }
+                    // Calculate refund amount
+                    string fetchPriceQuery = @"
+                            SELECT PricePerSeat
+                            FROM Trains
+                            WHERE TrainNo = @TrainNo";
+                    using (SqlCommand fetchPriceCmd = new SqlCommand(fetchPriceQuery, connection, transaction))
+                    {
+                        fetchPriceCmd.Parameters.AddWithValue("@TrainNo", trainNo);
+                        pricePerSeat = (decimal)fetchPriceCmd.ExecuteScalar();
+                    }
+                    refundAmount = berthsBooked * pricePerSeat;
 
-                SqlCommand cmd = new SqlCommand("CancelTickets", conn);
+                    // Insert cancellation record
+                    string insertCancellationQuery = @"
+                            INSERT INTO Cancellations (BookingID, RefundAmount)
+                            VALUES (@BookingID, @RefundAmount)";
+                    using (SqlCommand insertCancellationCmd = new SqlCommand(insertCancellationQuery, connection, transaction))
+                    {
+                        insertCancellationCmd.Parameters.AddWithValue("@BookingID", bookingId);
+                        insertCancellationCmd.Parameters.AddWithValue("@RefundAmount", refundAmount);
+                        insertCancellationCmd.ExecuteNonQuery();
+                    }
+                    // Delete Cancellation Record
+                    string deleteCancellationsQuery = @"
+                                DELETE FROM Cancellations
+                                WHERE BookingID = @BookingID";
+                    using (SqlCommand deleteCancellationsCmd = new SqlCommand(deleteCancellationsQuery, connection, transaction))
+                    {
+                        deleteCancellationsCmd.Parameters.AddWithValue("@BookingID", bookingId);
+                        deleteCancellationsCmd.ExecuteNonQuery();
+                    }
 
-                cmd.CommandType = System.Data.CommandType.StoredProcedure;
 
-                cmd.Parameters.AddWithValue("@BookingID", bookingId);
 
-                conn.Open();
+                    // Delete booking record
+                    string deleteBookingQuery = @"
+                             DELETE FROM Bookings
+                             WHERE BookingID = @BookingID";
+                    using (SqlCommand deleteBookingCmd = new SqlCommand(deleteBookingQuery, connection, transaction))
+                    {
+                        deleteBookingCmd.Parameters.AddWithValue("@BookingID", bookingId);
+                        deleteBookingCmd.ExecuteNonQuery();
+                    }
+                    transaction.Commit();
+                    Console.WriteLine($"Cancellation successful. Refund amount: {refundAmount:C}");
 
-                cmd.ExecuteNonQuery();
-
-                Console.WriteLine("Tickets cancelled successfully.");
-
+                    
+                }
+                catch (Exception ex)
+                {
+                    transaction.Rollback();
+                    Console.WriteLine("An error occurred: " + ex.Message);
+                }
             }
+            
+
+
+
 
         }
+
+      
+
+
 
         private void ShowAllTrains()
 
@@ -518,6 +611,11 @@ namespace TrainReservationApp
             }
             static void Main(string[] args)
             {
+                Console.WriteLine("=============================================================================================================================");
+                Console.WriteLine("                                                        **  IRCTC  **                                                        ");
+                Console.WriteLine("=============================================================================================================================");
+
+
                 TrainReservationSystem system = new TrainReservationSystem();
                 system.Run();
 
@@ -570,6 +668,7 @@ namespace TrainReservationApp
             }
 
 
+           
         }
 
     }

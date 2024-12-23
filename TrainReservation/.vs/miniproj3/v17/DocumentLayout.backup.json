@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mohithk\\source\\repos\\miniproj3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F7BD3C-429C-4F39-A041-2E0041DCED32}|miniproj3.csproj|c:\\dotnet training infinite\\miniproj3.sln||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80F7BD3C-429C-4F39-A041-2E0041DCED32}|miniproj3.csproj|c:\\users\\mohithk\\source\\repos\\miniproj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F7BD3C-429C-4F39-A041-2E0041DCED32}|miniproj3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "miniproj3.sln",
-              "DocumentMoniker": "C:\\dotnet training infinite\\miniproj3.sln",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\dotnet training infinite\\miniproj3.sln",
-              "ToolTip": "C:\\dotnet training infinite\\miniproj3.sln",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\dotnet training infinite\\miniproj3.sln",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
-              "WhenOpened": "2024-12-22T07:13:00.426Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohithk\\source\\repos\\miniproj3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mohithk\\source\\repos\\miniproj3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAADwv8kBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:25:02.769Z",
               "EditorCaption": ""
             }
           ]
