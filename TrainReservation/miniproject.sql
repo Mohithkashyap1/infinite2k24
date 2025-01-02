@@ -195,7 +195,7 @@ VALUES
 (4080, 'Vande Bharath', 'AC 1st Class', 100, 100, 'Mumbai', 'Gujrat', 1,2100.00);
 
 
--- Testing Admin and User Functionality
+
  EXEC AddTrain @TrainNo = 5018, @TrainName = 'Shatabdi Express', @Class = 'Second', @TotalBerths = 150, @Source = 'Bengaluru', @Destination = 'Vizag', @PricePerSeat=700.00;
  EXEC ModifyTrain @TrainNo = 4080, @TrainName = 'Vande Bharath', @Class = 'AC 1st Class', @TotalBerths = 120, @Source = 'Mumbai', @Destination = 'Chennai', @IsActive = 1,@PricePerSeat=1500.00;
  EXEC DeleteTrain @TrainNo = 12756;
@@ -207,3 +207,5 @@ VALUES
 select * from Bookings
 
 select * from Cancellations
+
+select * from Trains
