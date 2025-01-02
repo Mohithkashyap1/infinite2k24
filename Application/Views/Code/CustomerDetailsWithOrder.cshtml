@@ -1,0 +1,31 @@
+﻿@model Application.Customer
+
+@{
+    ViewBag.Title = "CustomerDetailsWithOrder";
+}
+
+<h2>Customer Details</h2>
+@if (Model != null)
+{
+<table>
+    <tr>
+        <td><b>Customer ID:</b></td>
+        <td>@Model.CustomerID</td>
+    </tr>
+    <tr>
+        <td><b>Company Name:</b></td>
+        <td>@Model.CompanyName</td>
+    </tr>
+    <tr>
+        <td><b>Contact Name:</b></td>
+        <td>@Model.ContactName</td>
+    </tr>
+    <tr>
+        <td><b>Country:</b></td>
+        <td>@Model.Country</td>
+    </tr>
+</table> }
+            else
+            {
+<p>No customer found with the specified order ID.</p>}
+
