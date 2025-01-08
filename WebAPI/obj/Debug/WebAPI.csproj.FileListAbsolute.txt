@@ -84,3 +84,4 @@ C:\dotnet training infinite\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 C:\dotnet training infinite\WebAPI\obj\Debug\WebAPI.dll
 C:\dotnet training infinite\WebAPI\obj\Debug\WebAPI.pdb
 C:\dotnet training infinite\WebAPI\bin\Swashbuckle.Core.dll
+C:\dotnet training infinite\WebAPI\bin\WebActivatorEx.dll

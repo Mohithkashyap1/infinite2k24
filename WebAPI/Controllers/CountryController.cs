@@ -37,12 +37,12 @@ namespace WebAPI.Controllers
         [HttpPost]
         public IHttpActionResult AddCountry(Country country)
         {
-            if (!ModelState.IsValid)
+            if (country==null)
             {
                 return BadRequest("Invalid data.");
             }
             countries.Add(country);
-            return Created(Request.RequestUri + "/" + country.ID, country);
+            return Created($"api/country/{country.ID}", country);
         }
         
         [HttpPut]
